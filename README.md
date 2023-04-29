@@ -16,8 +16,9 @@
 #### Proper error handling techniques are implemented to handle cases of invalid user input or failed API requests, providing an accurate and reliable weather app experience.
 
 
-
-
+## 3. Calculator App :
+### [Live Demo](https://calculator-app-by-vj.netlify.app/)
+![calculator app](https://user-images.githubusercontent.com/103978586/235318257-1c322e49-6e9f-4574-8cfe-9165f8ecc18c.png)
 
 
 
