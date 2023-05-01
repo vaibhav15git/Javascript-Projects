@@ -19,6 +19,8 @@
 ### [Live Demo](https://loan-emi-calcultor-by-vj.netlify.app/)
 ![loan emi claculator](https://user-images.githubusercontent.com/103978586/235491608-933917af-42cb-419a-9bca-61423413d08c.png)
 
+#### A loan EMI calculator using JavaScript, HTML, and CSS can provide borrowers with a user-friendly interface to input their loan details, display the calculated EMI, and adjust variables such as loan tenure and interest rates to see how it impacts their monthly payments. This allows borrowers to make informed decisions and manage their finances more effectively.
+
 
 
 
