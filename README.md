@@ -15,14 +15,20 @@
 #### Overall, the project showcases the use of HTML, CSS, and JavaScript in creating a functional and visually appealing digital clock, demonstrating the power and versatility of these technologies in web development.
 
 
-## 3. Weather App :
+## 3. Loan EMI Calculator :
+### [Live Demo](https://loan-emi-calcultor-by-vj.netlify.app/)
+![loan emi claculator](https://user-images.githubusercontent.com/103978586/235491608-933917af-42cb-419a-9bca-61423413d08c.png)
+
+
+
+
+## 4. Weather App :
 ### [Live Demo](https://weather-app-by-vj.netlify.app/)
 ![weather app](https://user-images.githubusercontent.com/103978586/231176280-1ebcffc5-d463-440e-8361-40b8d810e9f2.png)
 
 #### The weather app project involves creating a web application using HTML, CSS, and JavaScript that utilizes the OpenWeather API to fetch and display weather data.  The app is designed with a responsive layout and user-friendly interface using CSS styling, ensuring it is accessible on different devices and screen sizes. 
 
 #### Proper error handling techniques are implemented to handle cases of invalid user input or failed API requests, providing an accurate and reliable weather app experience.
-
 
 
 
