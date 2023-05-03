@@ -32,7 +32,6 @@
 
 #### Proper error handling techniques are implemented to handle cases of invalid user input or failed API requests, providing an accurate and reliable weather app experience.
 
-## 5.
 
 
 
