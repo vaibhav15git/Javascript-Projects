@@ -21,10 +21,6 @@
 
 #### A loan EMI calculator using JavaScript, HTML, and CSS can provide borrowers with a user-friendly interface to input their loan details, display the calculated EMI, and adjust variables such as loan tenure and interest rates to see how it impacts their monthly payments. This allows borrowers to make informed decisions and manage their finances more effectively.
 
-## 5. Coming Soon
-
-
-
 
 ## 4. Weather App :
 ### [Live Demo](https://weather-app-by-vj.netlify.app/)
@@ -33,6 +29,9 @@
 #### The weather app project involves creating a web application using HTML, CSS, and JavaScript that utilizes the OpenWeather API to fetch and display weather data.  The app is designed with a responsive layout and user-friendly interface using CSS styling, ensuring it is accessible on different devices and screen sizes. 
 
 #### Proper error handling techniques are implemented to handle cases of invalid user input or failed API requests, providing an accurate and reliable weather app experience.
+
+
+## 5. Coming Soon
 
 
 
