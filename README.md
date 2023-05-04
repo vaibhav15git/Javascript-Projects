@@ -21,6 +21,8 @@
 
 #### A loan EMI calculator using JavaScript, HTML, and CSS can provide borrowers with a user-friendly interface to input their loan details, display the calculated EMI, and adjust variables such as loan tenure and interest rates to see how it impacts their monthly payments. This allows borrowers to make informed decisions and manage their finances more effectively.
 
+## 5. Coming Soon
+
 
 
 
